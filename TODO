@@ -1,0 +1,4 @@
+- Functionality that automates key-generation and key-to-server transfer and authentication
+- Further default parameters to make sessions more customizable
+- A command flag to display defaults
+- A command flag to edit defaults
