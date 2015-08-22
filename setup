@@ -1,0 +1,9 @@
+#!/bin/sh
+
+cp sshm /usr/bin/sshm
+touch $HOME/.sshm-info
+echo
+echo SSH Manager is now installed. See README.txt for usage help,
+echo or visit the github page. Thank you for using SSHM!
+echo
+exit
