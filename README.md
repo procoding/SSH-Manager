@@ -6,7 +6,7 @@ Installation
 ------------
 1) Navigate to the downloaded folder and run: chmod +x setup.sh
 
-2) Run setup.sh
+2) ./setup
 
 Use
 ---
