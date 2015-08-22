@@ -4,7 +4,7 @@ SSH Manager (SSHM for short) is a program designed to make using SSH from the co
 
 Installation
 ------------
-1) Navigate to the downloaded folder and run: chmod +x setup.sh
+1) Navigate to the downloaded folder and run: chmod +x setup
 
 2) ./setup
 
